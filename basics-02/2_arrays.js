@@ -9,3 +9,5 @@ console.log(fullname);
 const fullname2 = [...firstname, ...surname, ...college];
 
 // console.log(fullname2)
+
+console.log(Array.from("Aman Pandey"))
